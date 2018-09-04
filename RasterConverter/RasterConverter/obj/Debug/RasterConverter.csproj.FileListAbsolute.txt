@@ -1,0 +1,7 @@
+H:\C#\RasterConverter\RasterConverter\bin\Debug\RasterConverter.exe.config
+H:\C#\RasterConverter\RasterConverter\bin\Debug\RasterConverter.exe
+H:\C#\RasterConverter\RasterConverter\bin\Debug\RasterConverter.pdb
+H:\C#\RasterConverter\RasterConverter\obj\Debug\RasterConverter.csprojResolveAssemblyReference.cache
+H:\C#\RasterConverter\RasterConverter\obj\Debug\RasterConverter.csproj.CoreCompileInputs.cache
+H:\C#\RasterConverter\RasterConverter\obj\Debug\RasterConverter.exe
+H:\C#\RasterConverter\RasterConverter\obj\Debug\RasterConverter.pdb
